@@ -1,6 +1,7 @@
-# Benchmark 1. "TemplateName"
+# Benchmark 7. Model-Centric Design Reviews
 
-This is a template that details the expected Minimum Viable Content of a benchmark including the documentation and the data.
+The Benchmark-7_Benchmarking_model-centric_design_review aims at benchmarking solutions for reviewing model-centric designs.
+
 
 ## Introduction
 
