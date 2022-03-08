@@ -39,9 +39,13 @@ In the folder named [solutions](), you should collect the competing solutions.
 
 ## Measures of Performance
 Qc et Qi (les notes du questionnaire de compréhension)
+
 Pc et Pi (le temps utilisé pour répondre au questionnaire de compréhension)
+
 Cc et Ci (la confiance mesuré par le questionnaire de confiance)
+
 Uc et Ui (l’utilisabilité mesurée grâce au questionnaire SUS)
+
 Tc et Ti (la charge mentale mesurée par le TLX)
 
 ## Datasets
