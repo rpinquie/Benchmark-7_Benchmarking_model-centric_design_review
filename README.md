@@ -1,6 +1,6 @@
 # Benchmark 7. Model-Centric Design Reviews
 
-The Benchmark-7_Benchmarking_model-centric_design_review aims at benchmarking solutions for reviewing model-centric designs.
+The Benchmark-7_Benchmarking_model-centric_design_review aims at comparing ...
 
 
 ## Introduction
@@ -23,26 +23,33 @@ To share a common undestanding of ambiguous concepts, contributors shall agree u
 
 ## Goals
 
-Specify the common set of goals that the competing solutions pursue:
-- The solution shall enable to...
-- The solution shall enable to...
-- The solution shall enable to...
+Q : EST-CE QUE LA COMPREHENSION D’UN SYSTEME (DE SES FONCTIONS, SON COMPORTEMENT ET SA STRUCTURE) EST FACILITE PAR L’UTILISATION D’UN ENVIRONNEMENT VIRTUEL IMMERSIF ?
+
+H1 : L’environnement virtuel immersif permettra aux utilisateurs de mieux comprendre les modèles proposés – C’est-à-dire que la qualité des réponses qu’ils donneront aux questions posés sur le système sera supérieure à ceux qui ne l’auront pas utilisé.
+
+H2 : L’environnement virtuel immersif permettra aux utilisateurs de comprendre plus rapidement le système étudié.
+
+H3 : Les utilisateurs de l’environnement immersif auront une confiance significativement plus importante dans leur réponse.
+
+H4 : La note d’utilisabilité obtenue par l’environnement virtuel immersif sera plus élevée que celle de l’environnement classique de revue de conception.
 
 # Solutions
 
 In the folder named [solutions](), you should collect the competing solutions.
 
 ## Measures of Performance
-- KPI X = définition
-- KPI Y = Définition
-- KPI Z = Définition
-- KPI ...
-- 
+•	Qc et Qi (les notes du questionnaire de compréhension)
+•	Pc et Pi (le temps utilisé pour répondre au questionnaire de compréhension)
+•	Cc et Ci (la confiance mesuré par le questionnaire de confiance)
+•	Uc et Ui (l’utilisabilité mesurée grâce au questionnaire SUS)
+•	Tc et Ti (la charge mentale mesurée par le TLX)
+
 ## Datasets
 
-- Dataset 1
-- Dataset 2
-- Dataset ...
+To evaluate candidate solutions we use the model-centered design of a GO-TO Telescope according to three different views:
+- Functional view : SysML models
+- Behavioural view : Modelica models
+- Structural view : CAD models 
 
 ## Cartography
 
